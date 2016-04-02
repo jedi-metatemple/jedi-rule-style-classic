@@ -1,2 +1,2 @@
 <br/>
-<b>Chapter #1: <a href = "#ch{{{esc|chapt_id}}}p">{{{esc|ttl1}}}</a></b><br/>
+<b>Chapter #{{{esc|chapt_id}}}: <a href = "#ch{{{esc|chapt_id}}}p">{{{esc|ttl1}}}</a></b><br/>
