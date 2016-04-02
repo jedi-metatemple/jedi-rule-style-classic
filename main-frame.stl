@@ -1,0 +1,45 @@
+<html><head>
+<title>{{{esc|title}}}</title>
+<style type="text/css">
+.cite {
+	font-size: 60%;
+	color: #aa00aa;
+}
+.mnlink {
+	font-size: 70%;
+}
+.expt_h {
+	font-size: 200%;
+	text-align: center;
+	background-color: #aaffaa;
+}
+.expt_b {
+	background-color: #aaffdd;
+}
+</style>
+</head><body>
+
+<table border = 0 width = "70%"><tr><td><table border = 0 width = "90%" align = "right"><tr><td>
+<h1>{{{esc|title}}}</h1>
+&nbsp &nbsp; &nbsp; Visit the Home-Page of the Rule:<br/>
+&nbsp &nbsp; &nbsp; <a href = "http://metatemple.org/jedi-rule">http://metatemple.org/jedi-rule</a>
+
+
+<a name = "toc"><h3>Contents</h3>
+{{{lit|small-toc}}}
+</td></tr></table>
+</td></tr></table>
+
+
+<table border = 0 width = "70%"><tr><td><table border = 0 width = "90%" align = "right"><tr><td>
+{{{lit|big-toc}}}
+</td></tr></table>
+</td></tr></table>
+<hr/>
+
+{{{lit|contents}}}
+
+
+
+</body>
+</html>

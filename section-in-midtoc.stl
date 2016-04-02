@@ -1,0 +1,6 @@
+
+<br/>
+<a name = "ch{{{esc|chapt_id}}}p" /><b>Chapter #{{{esc|chapt_id}}}: {{{esc|ttl1}}}</b><div class = "mnlink"> - [<a href = "#toc">main table of contents</a>]</div>
+<br/>
+{{{lit|content}}}
+<hr/>
