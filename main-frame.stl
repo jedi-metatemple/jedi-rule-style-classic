@@ -16,6 +16,14 @@
 .expt_b {
 	background-color: #aaffdd;
 }
+.ct_expt_h {
+	font-size: 200%;
+	text-align: center;
+	background-color: #aaaaff;
+}
+.ct_expt_b {
+	background-color: #aaddff;
+}
 </style>
 </head><body>
 
