@@ -25,12 +25,12 @@
 	background-color: #aaddff;
 }
 .placehld_h {
-	font-size: 150%;
+	font-size: 120%;
 	text-align: center;
 	background-color: #ffff00;
 }
 .placehld_b {
-	background-color: #ffff44;
+	background-color: #ffffaa;
 }
 </style>
 </head><body>
