@@ -24,6 +24,14 @@
 .ct_expt_b {
 	background-color: #aaddff;
 }
+.placehld_h {
+	font-size: 150%;
+	text-align: center;
+	background-color: #ffff00;
+}
+.placehld_b {
+	background-color: #ffff44;
+}
 </style>
 </head><body>
 
