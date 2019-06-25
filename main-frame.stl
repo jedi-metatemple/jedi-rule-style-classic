@@ -32,13 +32,22 @@
 .placehld_b {
 	background-color: #ffffaa;
 }
+
+div.my_ext_note {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 15px;
+  border-color: #000000;
+}
+
 </style>
 </head><body>
 
 <table border = 0 width = "70%"><tr><td><table border = 0 width = "90%" align = "right"><tr><td>
 <h1>{{{esc|title}}}</h1>
-&nbsp &nbsp; &nbsp; Visit the Home-Page of the Rule:<br/>
-&nbsp &nbsp; &nbsp; <a href = "http://metatemple.org/jedi-rule">http://metatemple.org/jedi-rule</a>
 
 
 <a name = "toc"><h3>Contents</h3>
