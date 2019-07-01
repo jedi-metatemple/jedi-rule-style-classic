@@ -1,1 +1,1 @@
-<a href = "{{{esc|link}}}" target = "_blank">{{{lit|text}}} [{{{esc|link}}}]</a>
+<a href = "{{{esc|link}}}" target = "_blank" rel = "noopener">{{{lit|text}}} [{{{esc|link}}}]</a>
