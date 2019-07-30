@@ -48,6 +48,7 @@ div.my_ext_note {
 
 <table border = 0 width = "70%"><tr><td><table border = 0 width = "90%" align = "right"><tr><td>
 <h1>{{{esc|title}}}</h1>
+<h2>{{{esc|x_vdate}}}</h2>
 
 
 <a name = "toc"><h3>Contents</h3>
