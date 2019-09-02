@@ -1,4 +1,4 @@
-<table border = 0 width = "70%"><tr><td><table border = 0 width = "90%" align = "right"><tr><td><a name = "lc{{{esc|daynum}}}n" /><h3>Day {{{esc|daynum}}}</h3>{{{lit|dates}}}
+<table border = 0 width = "70%"><tr><td><table border = 0 width = "90%" align = "right"><tr><td><a name = "lc{{{esc|daynum}}}n" /><h3>Day {{{esc|daynum}}} - {{{esc|show_dayow}}}, {{{esc|show_month}}} {{{esc|show_dayom}}}, {{{esc|show_year}}}</h3>{{{lit|dates}}}
 {{{lit|text}}}
 <div class = "mnlink">[<a href = "#toc">contents</a>]</div>
 </td></tr></table>
